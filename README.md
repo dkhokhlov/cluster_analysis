@@ -1,4 +1,4 @@
-Cluster Detection in Time Series of MySQL Performance Counters Using Multidimensional k-Nearest Neighbors Algorithm
+Anomaly Detection in Time Series of MySQL Performance Metrics Using Multivariate k-Nearest Neighbors Algorithm
 
 Notebook run result on colab:
 
